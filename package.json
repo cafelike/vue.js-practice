@@ -11,8 +11,7 @@
     "webpack-cli": "^3.2.1"
   },
   "scripts": {
-    "test": "v-test",
-    "start": "http-server -o"
+    "test": "v-test"
   },
   "repository": {
     "type": "git",
